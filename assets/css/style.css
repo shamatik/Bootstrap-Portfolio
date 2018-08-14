@@ -1,6 +1,5 @@
 * {
     box-sizing: border-box;
-    transition: 0.7s;
 }
 
 body{
@@ -36,6 +35,9 @@ body{
   .indexImg{
       float: left;
       margin: 15px;
+      width: 100%;
+      margin-left: 0;
+      padding-left: 0;
   }
 
   .formContainer{
