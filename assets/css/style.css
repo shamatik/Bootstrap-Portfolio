@@ -48,3 +48,9 @@ body{
       border: 1px solid #777777;
       border-radius: 5px;
   }
+
+  .jumbotron{
+      background-image: url("../images/Mullard.jpg");
+      background-size: 100%;
+      color: white;
+  }
